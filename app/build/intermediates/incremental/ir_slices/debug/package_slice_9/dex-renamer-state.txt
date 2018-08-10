@@ -1,0 +1,4 @@
+#Fri Aug 10 16:11:29 IST 2018
+base.0=/home/abhijeet/git/POCs/achitecture components pocs/PersistenceContentProviderSample/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

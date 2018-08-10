@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/abhijeet/git/POCs/achitecture components pocs/PersistenceContentProviderSample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/86cb2edbe500e927dae5b2b70b4a50a6/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b7263503d73961f8ecf6629edc367087/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
